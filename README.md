@@ -1,2 +1,2 @@
 # MyCode
-Mostly college stuff
+Mostly studies stuff
