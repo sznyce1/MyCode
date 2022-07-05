@@ -1,0 +1,3 @@
+﻿  Zakas.cpp
+C:\Users\Kacper\source\repos\Zakas\Zakas\Zakas.cpp(14,11): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+  Zakas.vcxproj -> C:\Users\Kacper\source\repos\Zakas\Debug\Zakas.exe

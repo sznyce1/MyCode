@@ -1,0 +1,7 @@
+﻿  Funkcja.cpp
+C:\Users\Kacper\source\repos\Poliformizm\Poliformizm\Funkcja.cpp(3,9): error C2065: "x": niezadeklarowany identyfikator
+C:\Users\Kacper\source\repos\Poliformizm\Poliformizm\Funkcja.cpp(9,9): error C2065: "x": niezadeklarowany identyfikator
+  FunkcjaKwadratowa.cpp
+  FunkcjaLiniowa.cpp
+  Poliformizm.cpp
+  Generowanie kodu...

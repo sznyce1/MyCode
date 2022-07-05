@@ -1,0 +1,3 @@
+﻿  Ciąg Fibonacziego.cpp
+X:\VS Programowanie\VS Projekty C++\source\repos\Ciąg Fibonacziego\Ciąg Fibonacziego\Ciąg Fibonacziego.cpp(23,12): warning C4244: "return": konwersja z "__int64" do "int", możliwa utrata danych
+  Ciąg Fibonacziego.vcxproj -> X:\VS Programowanie\VS Projekty C++\source\repos\Ciąg Fibonacziego\Debug\Ciąg Fibonacziego.exe

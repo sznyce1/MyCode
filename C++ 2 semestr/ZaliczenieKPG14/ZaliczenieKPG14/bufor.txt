@@ -1,0 +1,10 @@
+Test1	155
+Test2	58
+Test3	84
+Test Spacji	5
+Kacper	237
+kacper	97
+Prosze o 5	219
+Test	111
+Egzamin	17
+Piotrek	0

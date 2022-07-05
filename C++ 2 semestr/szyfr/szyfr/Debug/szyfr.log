@@ -1,0 +1,6 @@
+﻿  szyfr.cpp
+C:\Users\Kacper\source\repos\szyfr\szyfr\szyfr.cpp(54,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\source\repos\szyfr\szyfr\szyfr.cpp(135,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\source\repos\szyfr\szyfr\szyfr.cpp(216,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\source\repos\szyfr\szyfr\szyfr.cpp(297,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  szyfr.vcxproj -> C:\Users\Kacper\source\repos\szyfr\Debug\szyfr.exe

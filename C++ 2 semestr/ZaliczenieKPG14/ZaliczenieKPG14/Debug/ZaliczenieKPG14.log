@@ -1,0 +1,7 @@
+﻿  Ruletka.cpp
+C:\Users\Kacper\source\repos\ZaliczenieKPG14\ZaliczenieKPG14\Ruletka.cpp(8,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kacper\source\repos\ZaliczenieKPG14\ZaliczenieKPG14\Ruletka.cpp(33,26): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  ZaliczenieKPG14.cpp
+C:\Users\Kacper\source\repos\ZaliczenieKPG14\ZaliczenieKPG14\ZaliczenieKPG14.cpp(24,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  ZaliczenieKPG14.vcxproj -> C:\Users\Kacper\source\repos\ZaliczenieKPG14\Debug\ZaliczenieKPG14.exe

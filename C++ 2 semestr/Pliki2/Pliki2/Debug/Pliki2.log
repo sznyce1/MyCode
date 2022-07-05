@@ -1,0 +1,6 @@
+﻿  Pliki2.cpp
+C:\Users\Kacper\source\repos\Pliki2\Pliki2\Pliki2.cpp(23,31): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\source\repos\Pliki2\Pliki2\Pliki2.cpp(38,49): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\source\repos\Pliki2\Pliki2\Pliki2.cpp(55,27): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Kacper\source\repos\Pliki2\Pliki2\Pliki2.cpp(59,31): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+  Pliki2.vcxproj -> C:\Users\Kacper\source\repos\Pliki2\Debug\Pliki2.exe

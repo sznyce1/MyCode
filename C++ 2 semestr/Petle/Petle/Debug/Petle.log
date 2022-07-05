@@ -1,0 +1,3 @@
+﻿  Petle.cpp
+C:\Users\Kacper\source\repos\Petle\Petle\Petle.cpp(8,23): warning C4804: "<": niebezpieczne użycie typu "bool" w operacji
+C:\Users\Kacper\source\repos\Petle\Petle\Petle.cpp(8,33): error C2143: błąd składniowy: brakuje „;” przed „)”

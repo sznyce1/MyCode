@@ -1,0 +1,3 @@
+﻿  Runner.cpp
+X:\VS Programowanie\VS Projekty C++\source\repos\Runner\Runner\Runner.cpp(37,5): error C3861: "writeCharXY": identyfikatora nie odnaleziono
+X:\VS Programowanie\VS Projekty C++\source\repos\Runner\Runner\Runner.cpp(40,5): error C3861: "writeCharXY": identyfikatora nie odnaleziono
